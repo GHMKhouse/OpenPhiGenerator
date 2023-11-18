@@ -1,3 +1,7 @@
-nimcache/
-nimblecache/
+__pycache__/
 htmldocs/
+.vscode/
+*.spec
+*.zip
+build/
+dist/
